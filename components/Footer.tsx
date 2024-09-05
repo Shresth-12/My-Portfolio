@@ -31,7 +31,7 @@ const Footer = () => {
       <div className='flex mt-15 md:flex-row flex-col justify-between items-center'>
         <p className='md:text-base text-sm md:font-normal font-light  '> Copyright © 2024 Shresth </p>
         <div className='flex items-center md:gap-3 gap-6 '>
-           {socialMedia.map((profile) => ( <a href={profile.l}><div key={profile.id} className='w-10 h-10 cursor-pointer flex justify-center items-center  backdrop-blur-lg backdrop-filter saturate-180 bg-opacity-75 bg-black-200'> <Image src={profile.img} alt="" width={20} height={20}  /> </div> </a>))}
+           {socialMedia.map((profile) => ( <a href={profile.l} key={profile.id}><div key={profile.id} className='w-10 h-10 cursor-pointer flex justify-center items-center  backdrop-blur-lg backdrop-filter saturate-180 bg-opacity-75 bg-black-200'> <Image src={profile.img} alt="" width={20} height={20}  /> </div> </a>))}
         </div>
       </div>
     </footer>
