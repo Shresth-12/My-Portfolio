@@ -74,7 +74,7 @@ export const projects = [
     id: 1,
     title: "Paytm: Your All-in-One Digital Wallet",
     des: "A Paytm User Application designed to provide users with a seamless platform for managing their digital transactions. The app allows users to register, log in, view and manage their wallets, and track transaction history. With a focus on user-friendly navigation and secure functionality, the app ensures a smooth experience for all financial activities.",
-    img: "/paytm-Next.png",
+    img: "/Paytm-Next.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg"],
     link: "https://github.com/Shresth-12/Paytm-Deploy",
   },
