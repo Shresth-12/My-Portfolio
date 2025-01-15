@@ -69,21 +69,22 @@ export const gridItems = [
 ];
 
 export const projects = [
+
   {
     id: 1,
+    title: "Paytm: Your All-in-One Digital Wallet",
+    des: "A Paytm User Application designed to provide users with a seamless platform for managing their digital transactions. The app allows users to register, log in, view and manage their wallets, and track transaction history. With a focus on user-friendly navigation and secure functionality, the app ensures a smooth experience for all financial activities.",
+    img: "/paytm-Next.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/prisma.svg"],
+    link: "https://github.com/Shresth-12/Paytm-Deploy",
+  },
+  {
+    id: 2,
     title: "Share Your Thoughts with the World",
     des: " Unleash your creativity by crafting insightful and engaging blog posts. Whether you’re sharing personal experiences, offering expert advice, or exploring new ideas, our intuitive blog editor makes it easy to bring your words to life. Customize your content with images, videos, and more. Once you're ready, hit publish and let your voice be heard by a global audience.",
     img: "/blog.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/hono.svg", "/prisma.svg"],
     link: "https://github.com/Shresth-12/Blog",
-  },
-  {
-    id: 2,
-    title: "Paytm: Your All-in-One Digital Wallet and Marketplace",
-    des: "Welcome to Paytm, the ultimate digital wallet and marketplace solution designed to simplify your financial transactions and shopping experiences. PayMate brings together a suite of features that cater to all your digital payment needs, offering a seamless and secure platform for managing money, shopping online, and accessing a variety of financial services.",
-    img: "/paytm.png",
-    iconLists: ["/re.svg", "/tail.svg", "/js.svg", "/mongo.svg"],
-    link: "https://github.com/Shresth-12/Paytm-Clone",
   },
   {
     id: 3,
@@ -92,39 +93,6 @@ export const projects = [
     img: "/E-Commerce.png",
     iconLists: ["/html.svg", "/css.svg", "/js.svg", "/sql.svg"],
     link: "https://github.com/Shresth-12/Shopping",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
   },
 ];
 
