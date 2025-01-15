@@ -168,6 +168,11 @@ export const socialMedia = [
   },
   {
     id: 2,
+    img: "/link.svg",
+    l:"https://www.linkedin.com/in/shresth-pratyush-556a99315/"
+  },
+  {
+    id: 3,
     img: "/ig.svg",
      l:"https://www.instagram.com/beingshresth4/"
   },
