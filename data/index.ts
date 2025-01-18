@@ -82,9 +82,9 @@ export const projects = [
     id: 2,
     title: "Share Your Thoughts with the World",
     des: " Unleash your creativity by crafting insightful and engaging blog posts. Whether you’re sharing personal experiences, offering expert advice, or exploring new ideas, our intuitive blog editor makes it easy to bring your words to life. Customize your content with images, videos, and more. Once you're ready, hit publish and let your voice be heard by a global audience.",
-    img: "/blog.png",
+    img: "/Blog-Home.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/hono.svg", "/prisma.svg"],
-    link: "https://github.com/Shresth-12/Blog",
+    link: "https://blog-app-three-phi-42.vercel.app/",
   },
   {
     id: 3,
