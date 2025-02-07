@@ -88,11 +88,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "SundarBans – Your One-Stop Online Shopping Destination",
-    des: "SundarBans is a seamless and user-friendly eCommerce platform designed to provide customers with a hassle-free online shopping experience. Browse a wide selection of products, from fashion to electronics, with detailed descriptions, secure payment options, and fast delivery services. Create personalized wishlists, manage your cart, and enjoy exclusive deals, all in one place. Shop smart, shop easy with SundarBans!",
-    img: "/E-Commerce.png",
-    iconLists: ["/html.svg", "/css.svg", "/js.svg", "/sql.svg"],
-    link: "https://github.com/Shresth-12/Shopping",
+    title: "Trip Planner",
+    des: "Plan your perfect trip with our Trip Planner website! Whether you're a solo traveler, a family, or a group of friends, our platform helps you create personalized itineraries, discover new destinations and activities all in one place.",
+    img: "/trip-planner.png",
+    iconLists: ["/re.svg", "/tail.svg","/mdb.svg"],
+    link: "https://trip-planner-frontend-eqsi.onrender.com",
   },
 ];
 
